@@ -21,7 +21,6 @@ const conexionDB = async() => {
 }
 
         
-        
     
 module.exports =  { 
     conexionDB 

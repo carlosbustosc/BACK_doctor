@@ -35,8 +35,6 @@ usarExpress.use(rutasCitas)
 
 
 
-
-
 /*-------------crear servidor----------*/
 usarExpress.listen( 3000, () => {
     console.log("servidor corriendo")
